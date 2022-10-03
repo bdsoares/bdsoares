@@ -1,11 +1,11 @@
-### Olá, seja bem-vindo(a)! 👋
+### Olá, eu sou Bruno, seja bem-vindo(a)! 👋
 
 [![Blog](https://img.shields.io/website?label=BrunoDaniel.com&style=for-the-badge&url=https://brunodaniel.com/)](https://brunodaniel.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/bdsoares)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 
-## Tecnologias
+## 🛠 Habilidades
 
 <div>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
